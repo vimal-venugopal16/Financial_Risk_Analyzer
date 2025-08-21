@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#00E5FF"         # Neon cyan
+backgroundColor="#0E1117"      # Dark slate background
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"            # Soft white text
+font="monospace"               # Hacker-style vibe
