@@ -1,0 +1,11 @@
+Customerid,FirstName,LastName,LoanType,LoanAmount,Occupation,Age,Address,Email,Phone,Zip
+498475,David,Miller,Education Loan,29728,Teacher,35,"574 Maple St, City2, State3",david.miller@mail.com,+1-322-301-9729,11255
+397381,Ava,Wilson,Home Loan,36369,Consultant,55,"512 2nd Ave, City4, State1",ava.wilson@test.com,+1-281-737-4915,16134
+102343,Alice,Brown,Business Loan,49581,Doctor,32,"804 Maple St, City1, State1",alice.brown@test.com,+1-716-451-1061,55207
+153138,Sophia,Taylor,Business Loan,17842,Manager,51,"352 Pine St, City4, State1",sophia.taylor@example.com,+1-866-346-4708,47164
+103314,Robert,Davis,Home Loan,30148,Accountant,46,"397 2nd Ave, City2, State1",robert.davis@mail.com,+1-449-603-7795,42997
+659295,Ava,Brown,Home Loan,46951,Designer,43,"149 Main St, City1, State3",ava.brown@mail.com,+1-278-406-2684,19963
+109515,John,Davis,Car Loan,46507,Nurse,51,"970 Oak St, City4, State3",john.davis@mail.com,+1-256-307-9483,86549
+546912,Alice,Taylor,Car Loan,9790,Consultant,32,"197 Highland Ave, City2, State2",alice.taylor@test.com,+1-233-503-8310,42550
+982545,Michael,Jones,Business Loan,18810,Designer,23,"124 Pine St, City1, State3",michael.jones@test.com,+1-640-662-6879,41117
+772796,Michael,Brown,Personal Loan,47110,Doctor,51,"390 Pine St, City2, State2",michael.brown@mail.com,+1-629-373-4083,64643
