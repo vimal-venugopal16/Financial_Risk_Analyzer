@@ -7,7 +7,7 @@ import toml
 # Agents
 # -------------------------------
 
-with open('.streamlit\config.toml', 'r') as f:
+with open('.streamlit/config.toml', 'r') as f:
     config = toml.load(f)
 
 
