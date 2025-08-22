@@ -1,6 +1,5 @@
-strands
 streamlit~=1.48.1
 strands-agents
 strands-agents.tools
-toml
+
 boto3~=1.40.14
