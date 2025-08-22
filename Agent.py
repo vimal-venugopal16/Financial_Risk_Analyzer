@@ -6,7 +6,7 @@ from strands.tools import tool
 from strands.multiagent import Swarm
 
 # -------------------------------
-# Tools
+# Tools deployed
 # -------------------------------
 @tool
 def read_customer_creditdata(bucket: str, key: str) -> str:
