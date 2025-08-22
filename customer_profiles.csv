@@ -1,0 +1,11 @@
+customerid,FName,LName,SSN,License,Passport,Age,Address,StreetName,City,State,ZipCode,Occupation,MaritalStatus,Smoker,Insured,HealthCondition
+498475,David,Miller,593-91-1415,IL-4957993,P434244988,35,"574 Maple St, City2, State3",Maple St,City2,State3,11255,Teacher,Single,No,Yes,Average
+397381,Ava,Wilson,537-62-3727,NY-4162726,P131138395,55,"512 2nd Ave, City4, State1",2nd Ave,City4,State1,16134,Consultant,Married,Yes,Yes,Poor
+102343,Alice,Brown,850-80-6611,IL-1947818,P722077032,32,"804 Maple St, City1, State1",Maple St,City1,State1,55207,Doctor,Married,Yes,No,Good
+153138,Sophia,Taylor,239-80-6867,FL-2051872,P397128162,51,"352 Pine St, City4, State1",Pine St,City4,State1,47164,Manager,Single,No,Yes,Average
+103314,Robert,Davis,804-62-6720,NY-8886433,P365700949,46,"397 2nd Ave, City2, State1",2nd Ave,City2,State1,42997,Accountant,Married,No,Yes,Poor
+659295,Ava,Brown,487-40-4100,NY-2712643,P782779849,43,"149 Main St, City1, State3",Main St,City1,State3,19963,Designer,Widowed,No,Yes,Good
+109515,John,Davis,765-73-7894,CA-3397127,P551426715,51,"970 Oak St, City4, State3",Oak St,City4,State3,86549,Nurse,Widowed,Yes,No,Average
+546912,Alice,Taylor,588-36-6365,FL-9496119,P862479298,32,"197 Highland Ave, City2, State2",Highland Ave,City2,State2,42550,Consultant,Widowed,Yes,Yes,Good
+982545,Michael,Jones,213-94-6838,NY-6158719,P402361227,23,"124 Pine St, City1, State3",Pine St,City1,State3,41117,Designer,Widowed,No,No,Good
+772796,Michael,Brown,979-60-9820,IL-8758529,P789271060,51,"390 Pine St, City2, State2",Pine St,City2,State2,64643,Doctor,Single,Yes,No,Average
