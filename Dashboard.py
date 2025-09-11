@@ -1,6 +1,8 @@
 import streamlit as st
 import time
 import Agent
+import Tools
+
 
 def extract_message(agent_result):
     """Extract plain text message from a Strands agent result."""
@@ -60,10 +62,12 @@ if prompt := st.chat_input("Enter a request for the Swarm to analyze..."):
     st.subheader("Final Swarm Summary")
     #st.write(result.results[summarizer_agent].result)
     if "summarizer_agent" in result.results:
-        st.write(extract_message(result.results["summarizer_agent"].result))
-
+        message = extract_message(result.results["summarizer_agent"])
+        st.write(message)
+        Tools.send_report(message)
     # Option 2: fallback: show all agent results
     else:
         for agent_name, agent_result in result.results.items():
             st.write(f"### {agent_name}")
-            st.write(extract_message(agent_result.result))
+            message = extract_message(agent_result)
+            st.write(message)
